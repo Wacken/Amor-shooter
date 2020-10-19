@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a52beba04eaae1448afe8b8e03b6cd6, type: 3}
+  m_Name: Path 7
+  m_EditorClassIdentifier: 
+  loop: 1
+  speed: 0
+  points: {fileID: 1997876409939828, guid: d87612e332078fb40b13755ef6e2deaf, type: 2}
